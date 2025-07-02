@@ -1,0 +1,1 @@
+[Key.caps_lock] p[Key.caps_lock] ython [Key.caps_lock] k[Key.caps_lock] eylogger
